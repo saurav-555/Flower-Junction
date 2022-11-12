@@ -2,7 +2,7 @@
 
 Developed Flower Ordering Android App (ordering via e-mail & messages)
 
-Tech Stack : Android
+Tech Stack : Java & Android
 
 <img src="https://user-images.githubusercontent.com/57410861/156421420-6e963c6a-5510-42fd-9d7c-2950a519a347.jpg" alt="flowerJunction image-1" width="240"/>
 <img src="https://user-images.githubusercontent.com/57410861/156421439-2d742b47-17ff-49a4-a736-ec7997d2b5d6.jpg" alt="flowerJunction image-2" width="240"/>
